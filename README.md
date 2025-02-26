@@ -48,11 +48,6 @@ Download the latest version from Spigot(Undownloadable) or [GitHub](https://gith
 You can always edit all messages of the plugin in `config.yml` file.
 
 ```yaml
-# Worlds where the heart effect will run continuously
-enabled_worlds:
-  - world
-  - world2
-
 no-permissions: "&cSadly, you have no permissions"
 Hug: "&f{player} &ahugs you."
 HugReceived: "&fYou were hugged by &a{player}!"
