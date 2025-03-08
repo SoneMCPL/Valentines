@@ -5,7 +5,7 @@
 
 ### Installation
 
-Download the latest version from [Spigot](https://www.spigotmc.org/resources/valentines.122853/) or [GitHub](https://github.com/wejkey/Valentines/releases/tag/1.0-dev3).  
+Download the latest version from [Spigot](https://www.spigotmc.org/resources/valentines.122853/) or [GitHub](https://github.com/wejkey/Valentines/releases).  
 2. Place the `.jar` file into your server's `plugins` folder.  
 3. Start/Restart the server and configure it as needed.  
 
