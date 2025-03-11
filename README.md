@@ -1,4 +1,4 @@
-# Valentines     
+# Valentines (README.md will not be updated)
 *All those hearts in one plugin. No, this plugin wont find girlfriend for you.*  
 
 ![](https://github.com/wejkey/SoneMC/raw/main/images/images2/separator.png)
