@@ -48,6 +48,7 @@ Marriage:
 
 cooldown-message: "&cYou can only {command} once every &d{time}&c seconds!"
 
+# Chat Replacement
 symbol-change: true # changes "words" with "symbol"
 symbol-color: "&c" # changes "symbol" color
 symbol: "♥"
@@ -56,3 +57,24 @@ words:
   - "valentines"
   - "heart"
 
+# Effects
+effect:
+  enabled: true
+  particle-density: 1
+  update-rate: 2
+  max-height: 2.0
+  start-height: 0.1
+  radius: 0.85
+
+# Enabled Worlds
+enabled-worlds:
+  - world
+  - world_nether
+
+# Cooldowns (in seconds)
+cooldowns:
+  hug: 60
+  kiss: 60
+
+# Thank you for using Valentines plugin by SoneMC. If you have any more questions, please
+# visit https://wejkey.github.io/sonemc/
