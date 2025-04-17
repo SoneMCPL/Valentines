@@ -1,0 +1,58 @@
+# Language setting (EN, IT, etc..)
+lang: "EN"
+
+# Prefix
+Prefix: "&c❤&f&lValentines&c❤&r "
+
+# No permission(s)
+NoPermissionMessage: "&cYou do not have permission to use this command."
+
+# Classic
+Hug: "&fYou hugged &d{player} ❤"
+HugReceived: "&d{player} &fhugged you&d! ❤"
+
+Kiss: "&fYou kissed &d{player} ❤"
+KissReceived: "&d{player} &fkissed you&d! ❤"
+
+# Marriage
+Marriage:
+  proposal-sent: "&fMarriage proposal sent to &d{player}"
+  proposal-received: "&d{player} &fwants to marry you. Type &d/marry confirm &ffor confirmation."
+
+  already-married: "&cYou are already married!"
+  target-already-married: "&c{player} is already married!"
+
+  no-pending-proposals: "&cYou have no pending marriage proposals!"
+  proposer-offline: "&cThe player who proposed is no longer online!"
+
+  accept-sender: "&d{player} &faccepted your marriage. You're together&d! ♥"
+  accept-receiver: "You married &d{player} &fYou're together&d! ♥"
+  decline-sender: "&c{player} doesn't want to be with you :("
+  decline-receiver: "&cYou don't want to be with {player}"
+
+  divorce-initiator: "&cYou have divorced {player}!"
+  divorce-target: "&c{player} has divorced you!"
+  divorce-confirm: "&fAre you sure you want to break up with &d{player}&f? Type &d/divorce &fagain to confirm."
+
+  not-married: "&cYou are not married!"
+  not-married-to: "&cYou are not married to {player}!"
+
+  # Marriage prefix settings
+  prefix:
+    enabled: true
+    position: "after"  # symbol "after" or "before" name
+    symbol: "❤"
+    color: "&c"
+    tooltip: "&dMarried to {partner}"
+    spacing: " "  # Space between name and symbol
+
+cooldown-message: "&cYou can only {command} once every &d{time}&c seconds!"
+
+symbol-change: true # changes "words" with "symbol"
+symbol-color: "&c" # changes "symbol" color
+symbol: "♥"
+words:
+  - "love"
+  - "valentines"
+  - "heart"
+
